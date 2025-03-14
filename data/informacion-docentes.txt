@@ -1,0 +1,6 @@
+
+Listado de Docentes
+2 2 -ciudad de residencia:2
+
+Listado de Docentes
+1 1 -ciudad de residencia:1
